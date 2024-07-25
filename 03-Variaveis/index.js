@@ -1,5 +1,5 @@
-var nomePessoa = "Ygor"
+var nomePessoa = prompt ("Digite seu nome");
 
-const emailPessoa = "ygor@gmail.com"
+const emailPessoa = prompt ("Digita seu email:");
 
-console.log(emailPessoa)
+console.log("Olá " + nomePessoa + "seu email é" + emailPessoa)

@@ -2,4 +2,4 @@ var nomePessoa = "Ygor"
 
 const emailPessoa = "ygorvalerio@gmail.com"
 
-console.log("Olá " + nomePessoa + " Seu email è: " + emailPessoa+ "oi")
+console.log("Olá " + nomePessoa + " seu email è: " + emailPessoa)
